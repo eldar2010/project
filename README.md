@@ -1,5 +1,5 @@
 # ФАКУЛЬТАТИВ 
-![Без имени-1](C:\Users\E-MaxPCShop\Desktop.jpg )
+![1](E:\БГУИР\2-СЕМЕСТР\JAVA\project\src.jpg )
  
  
 
@@ -16,6 +16,6 @@
 + Зайдите в File -> Project Structure и выберите папку, в которую вы установили JDK
 + Обычно эта папка имеет вид C:\Program Files\Java\jdk1.8.0_***\bin 
 + 
- ![okno](C:\Users\E-MaxPCShop\Desktop.jpg )
+ ![okno](E:\БГУИР\2-СЕМЕСТР\JAVA\project\src.jpg )
  
 
