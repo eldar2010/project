@@ -1,5 +1,5 @@
 # ФАКУЛЬТАТИВ 
-![1](/E/БГУИР/2-СЕМЕСТР/JAVA/project/src.jpg )
+![1](https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg)
  
  
 
